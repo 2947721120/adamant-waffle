@@ -2,18 +2,14 @@
 ========
 
 类似谷歌托管库，jsDelivr是一个开源的[CDN][6]，可以让开发人员来承载自己的项目，任何人都可以在自己的网站链接到我们托管的文件。 
-and anyone to link to our hosted files in their websites.
 
-We offer a stable CDN that can be used in production even on popular websites with huge amounts of traffic.
-There are no bandwidth limits or premium features and its completely free to use by anybody.
+我们提供了一个稳定的CDN，可以在生产中使用，即使与大量流量的热门网站。有没有带宽限制或高级功能和它的完全自由任何人使用。
 
-All kinds of files are allowed, including JavaScript libraries, jQuery plugins, CSS frameworks, fonts and more.
+所有类型的文件是允许的，包括JavaScript库，jQuery插件，CSS框架，字体等等。
 
-You can use this repo to make your own changes and improve the contents of jsDelivr's CDN.
-Feel free to open issues and pull requests if you think something should be changed.
+您可以使用此回购协议，使自己的变化和提高jsDelivr的CDN的内容。随意打开问题和拉请求，如果你觉得有什么应该改变。
 
-All changes made to this repo are synced to the CDN.
-It can take a few minutes for the changes to appear on the website.
+该回购协议的所有更改都会同步到CDN。这可能需要几分钟的变化出现在网站上。
 
 [jsDelivr – The advanced open source public CDN][11]
 

@@ -1,4 +1,4 @@
-[jsDelivr][1] - Open Source CDN
+[jsDelivr][1] -开源CDN
 ========
 
 Similar to Google Hosted Libraries, jsDelivr is an open source [CDN][6] that allows developers to host their own projects

@@ -1,7 +1,7 @@
 [jsDelivr][1] -开源CDN
 ========
 
-Similar to Google Hosted Libraries, jsDelivr is an open source [CDN][6] that allows developers to host their own projects
+类似谷歌托管库，jsDelivr是一个开源的[CDN][6]，可以让开发人员来承载自己的项目，任何人都可以在自己的网站链接到我们托管的文件。 
 and anyone to link to our hosted files in their websites.
 
 We offer a stable CDN that can be used in production even on popular websites with huge amounts of traffic.
